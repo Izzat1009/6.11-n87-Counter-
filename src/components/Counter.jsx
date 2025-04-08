@@ -1,5 +1,5 @@
 import React, { useReducer } from 'react';
-import './Counter.css'; // CSS faylni import qilamiz
+import './Counter.css'; 
 
 const initialState = { count: 0 };
 
